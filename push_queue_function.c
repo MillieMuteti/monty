@@ -4,7 +4,7 @@
  * rotl - rotates the stack to the top
  * @stack: pointer to the head node pointer of stack
  * @nline: the line number
- * Return: Nothing.
+ * Return: Nothing
  */
 void rotl(stack_t **stack, unsigned int nline)
 {
