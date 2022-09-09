@@ -3,7 +3,7 @@
  * pint - prints the value at the top of stack
  * @stack: pointer to the head node pointer of stack
  * @nline: the line number
- * Return: Nothing.
+ * Return: Nothing
  */
 void pint(stack_t **stack, unsigned int nline)
 {
